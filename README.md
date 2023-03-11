@@ -2,4 +2,4 @@ Travel Journal created with React using Vite.
 
 Uses card components generated dynamically by mapping over data provided. 
 
-Live: dv-traveljournal.netlify.app
+Live: https://dv-traveljournal.netlify.app/
